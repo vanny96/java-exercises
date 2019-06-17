@@ -8,9 +8,9 @@ To run an App navigate to its target/classes folder then run java com.vanny96.Ap
 
 e.g. for linux:
 
-    cd java-exercises
-    cd name/target/classes
-    java com.vanny96.App
+    $ cd java-exercises
+    $ cd name/target/classes
+    $ java com.vanny96.App
 
 
 
