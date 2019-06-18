@@ -20,3 +20,4 @@ e.g. for linux:
 * Calculator: this app asks for 2 numbers and then for a method (one from sum, difference, multiplication, division), it will then display the result of the operation. (Used reflection to invoke the method instead of relying on conditional statements)
 * Hangman: this app is a simple iteration of the popular game "Hangman", it chooses a random word from a text file (using BufferedReader) and then let's you guess it in 6 attempts.
 * Clock: this app takes the initial time and how much time do you want to wait, it then display the seconds, minutes and hours while they pass. (MOOC exercise 78)
+* Lyria-Card: this exercise let me practice in creating different classes and objects, while simulating the behaviour of payment cards and chash registers. (MOOC exercise 86)
