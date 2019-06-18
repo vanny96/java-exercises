@@ -21,3 +21,4 @@ e.g. for linux:
 * Hangman: this app is a simple iteration of the popular game "Hangman", it chooses a random word from a text file (using BufferedReader) and then let's you guess it in 6 attempts.
 * Clock: this app takes the initial time and how much time do you want to wait, it then display the seconds, minutes and hours while they pass. (MOOC exercise 78)
 * Lyria-Card: this exercise let me practice in creating different classes and objects, while simulating the behaviour of payment cards and chash registers. (MOOC exercise 86)
+* Teams: this exercises let me practice in obgject oriented programming by creating different classes and objects tha interacted between them. (MOOC exercise 90)
